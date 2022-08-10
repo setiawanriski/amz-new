@@ -3,14 +3,7 @@
     <script src="https://code.jquery.com/jquery-1.9.1.min.js"></script>
 
 <script type="text/javascript">
-	    $( document ).ready(function() {
-	    var settings = {
-		  "url": "https://ipgeolocation.abstractapi.com/v1/?api_key=1be9a6884abd4c3ea143b59ca317c6b2",
-		  "method": "GET",
-		  "timeout": 0,
-		};
-
-		$.ajax(settings).done(function (response) {
-		  console.log(response);
-		});
+	   $(document).ready(function() {
+   alert('test');
+});
 </script>
